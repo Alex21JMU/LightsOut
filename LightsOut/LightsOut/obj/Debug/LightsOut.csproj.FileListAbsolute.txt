@@ -1,0 +1,10 @@
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.csprojResolveAssemblyReference.cache
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.MainForm.resources
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+C:\Users\Alex21JMU\Desktop\LightsOut\LightsOut\obj\Debug\LightsOut.AboutForm.resources
